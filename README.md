@@ -1,3 +1,3 @@
-# Quote-Generator-in-JS
+# Quote-Generator-in-JS:
 
 Generates Quote.
